@@ -1,4 +1,2 @@
 #!/bin/bash
-echo $path#!/bin/bash
-echo $path#!/bin/bash
-echo $path
+pwd
