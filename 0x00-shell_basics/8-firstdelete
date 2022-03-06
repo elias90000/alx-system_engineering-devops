@@ -1,4 +1,2 @@
 #!/bin/bash
-rm /tmp/my_first_directory
-[B
-[3~
+rm /tmp/my_first_directory/betty
